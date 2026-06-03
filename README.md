@@ -53,10 +53,12 @@
 
 
 ## Output:
+<img width="987" height="780" alt="empd1" src="https://github.com/user-attachments/assets/13e624e8-c793-490d-ac30-da16adfbc8d4" />
+<img width="995" height="543" alt="empd2" src="https://github.com/user-attachments/assets/f3732c2a-b93e-4fa5-9e08-cbaa96dfef87" />
 
 
-### Name:
-### Register Number: 
+### Name: ADITHYA NM
+### Register Number: 212225040011
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
